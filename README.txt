@@ -1,0 +1,1 @@
+A funny class for working with Microsoft Excel. I'm still working on it. :P
